@@ -1,0 +1,30 @@
+USAF-WBAN_ID STATION NAME                   COUNTRY                                            STATE 			      LATITUDE LONGITUDE ELEVATION
+------------ ------------------------------ -------------------------------------------------- ------------------------------ -------- --------- ---------
+072880 99999 BESANCON/THISE(AUT)            FRANCE                                                                             +47.250  +005.983   +0309.0
+073860 99999 DOLE-TAVAUX                    FRANCE                                                                             +47.033  +005.417   +0195.0
+074820 99999 AMBERIEU                       FRANCE                                                                             +45.987  +005.328   +0250.9
+074860 99999 SAINT GEOIRS                   FRANCE                                                                             +45.363  +005.329   +0396.8
+074870 99999 GRENONBLE LVD                  FRANCE                                                                             +45.220  +005.850   +0220.0
+074900 99999 MEYTHET                        FRANCE                                                                             +45.929  +006.099   +0463.6
+074910 99999 AIX LES BAINS                  FRANCE                                                                             +45.638  +005.880   +0237.4
+074970 99999 BOURG ST-MAURICE               FRANCE                                                                             +45.617  +006.767   +0868.0
+075880 99999 ST-AUBAN-SUR-DURANC            FRANCE                                                                             +44.067  +006.000   +0461.0
+075910 99999 EMBRUN                         FRANCE                                                                             +44.567  +006.500   +0876.0
+076500 99999 PROVENCE                       FRANCE                                                                             +43.436  +005.214   +0022.6
+076600 99999 TOULON                         FRANCE                                                                             +43.100  +005.933   +0025.0
+076610 99999 CAP CEPET                      FRANCE                                                                             +43.083  +005.933   +0134.0
+076670 99999 LE PALYVESTRE                  FRANCE                                                                             +43.097  +006.146   +0002.1
+076750 99999 LE CANNET                      FRANCE                                                                             +43.385  +006.387   +0080.8
+076780 99999 TOULON/ILE DU LEVAN            FRANCE                                                                             +43.033  +006.467   +0131.0
+076840 99999 MANDELIEU                      FRANCE                                                                             +43.542  +006.953   +0004.0
+076900 99999 COTE D AZUR                    FRANCE                                                                             +43.658  +007.216   +0003.7
+077530 99999 ILE ROUSSE                     FRANCE                                                                             +42.633  +008.917   +0153.0
+077540 99999 SAINT CATHERINE                FRANCE                                                                             +42.531  +008.793   +0063.7
+077610 99999 CAMPO DELL ORO                 FRANCE                                                                             +41.924  +008.803   +0005.5
+077650 99999 SOLENZARA                      FRANCE                                                                             +41.924  +009.406   +0008.5
+077700 99999 CAP PERTUSATO                  FRANCE                                                                             +41.367  +009.167   +0116.0
+077750 99999 ALISTRO                        FRANCE                                                                             +42.267  +009.533   +0074.0
+077800 99999 SUD CORSE                      FRANCE                                                                             +41.501  +009.098   +0026.5
+077850 99999 CAP CORSE                      FRANCE                                                                             +43.000  +009.367   +0113.0
+077900 99999 PORETTA                        FRANCE                                                                             +42.553  +009.484   +0007.9
+996080 99999 NICE BUOY 61001                FRANCE                                                                             +43.400  +007.800   +0003.0

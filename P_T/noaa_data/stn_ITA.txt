@@ -1,0 +1,36 @@
+USAF-WBAN_ID STATION NAME                   COUNTRY                                            STATE 			      LATITUDE LONGITUDE ELEVATION
+------------ ------------------------------ -------------------------------------------------- ------------------------------ -------- --------- ---------
+160080 99999 S. VALENTINO ALLA MUTA         ITALY                                                                              +46.750  +010.533   +1461.0
+160200 99999 BOLZANO                        ITALY                                                                              +46.460  +011.326   +0240.5
+160220 99999 PAGANELLA MOUNTAIN             ITALY                                                                              +46.150  +011.033   +2129.0
+160370 99999 AVIANO (USAF)                  ITALY                                                                              +46.033  +012.617   +0125.0
+160520 99999 PIAN ROSA (MTN TOP)            ITALY                                                                              +45.933  +007.700   +3488.0
+160590 99999 TORINO CASELLE                 ITALY                                                                              +45.201  +007.650   +0301.4
+160610 99999 TORINO/BRIC CROCE              ITALY                                                                              +45.033  +007.733   +0710.0
+160660 99999 MALPENSA                       ITALY                                                                              +45.631  +008.728   +0233.8
+160760 99999 BERGAMO ORIO AL SERIO          ITALY                                                                              +45.674  +009.704   +0238.4
+160800 99999 LINATE                         ITALY                                                                              +45.445  +009.277   +0107.6
+160900 99999 VILLAFRANCA                    ITALY                                                                              +45.396  +010.889   +0072.8
+160980 99999 ISTRANA                        ITALY                                                                              +45.685  +012.083   +0041.8
+161050 99999 VENEZIA TESSERA                ITALY                                                                              +45.505  +012.352   +0002.1
+161100 99999 TRIESTE                        ITALY                                                                              +45.650  +013.750   +0020.0
+161200 99999 GENOVA SESTRI                  ITALY                                                                              +44.412  +008.842   +0004.0
+161340 99999 CIMONE MOUNTAIN                ITALY                                                                              +44.200  +010.700   +2173.0
+161480 99999 CERVIA                         ITALY                                                                              +44.224  +012.307   +0005.5
+161490 99999 RIMINI                         ITALY                                                                              +44.020  +012.612   +0012.5
+161530 99999 CAPE MELE                      ITALY                                                                              +43.950  +008.167   +0221.0
+161580 99999 PISA                           ITALY                                                                              +43.684  +010.393   +0001.8
+161680 99999 MOUNT ARGENTARIO               ITALY                                                                              +42.383  +011.167   +0632.0
+161700 99999 FIRENZE                        ITALY                                                                              +43.810  +011.205   +0043.9
+161720 99999 AREZZO                         ITALY                                                                              +43.467  +011.850   +0249.0
+161790 99999 FRONTONE                       ITALY                                                                              +43.517  +012.733   +0574.0
+161910 99999 FALCONARA                      ITALY                                                                              +43.616  +013.362   +0014.9
+162060 99999 GROSSETO                       ITALY                                                                              +42.760  +011.072   +0004.6
+162190 99999 TERMINILLO MOUNTAIN            ITALY                                                                              +42.467  +012.983   +1875.0
+162240 99999 VIGNA DI VALLE(MIL)            ITALY                                                                              +42.083  +012.217   +0270.0
+162300 99999 PESCARA                        ITALY                                                                              +42.432  +014.181   +0014.6
+162530 99999 GRAZZANISE                     ITALY                                                                              +41.061  +014.082   +0008.8
+162580 99999 MONTE S. ANGELO                ITALY                                                                              +41.700  +015.950   +0848.0
+162630 99999 TREVICO                        ITALY                                                                              +41.050  +015.233   +1093.0
+163100 99999 CAPE PALINURO                  ITALY                                                                              +40.017  +015.283   +0185.0
+165220 99999 CAPE CACCIA                    ITALY                                                                              +40.567  +008.167   +0205.0

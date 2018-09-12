@@ -1,0 +1,22 @@
+#!/bin/bash
+mkdir net1_atm
+while read st ; do
+echo $st
+for i in {1998..2015}
+do
+for j in {1..366} ; do
+b=`printf %03d $j`
+if [ -f /data/gps/gamit/hymex/net1/$i/$b/onet1a.$b ] ; then
+grep 'ATM_ZEN R' /data/gps/gamit/hymex/net1/$i/$b/onet1a.$b | grep -i $st |
+cut -c19-34,46-65 >> net1_atm/$st.$i.net1.az
+grep 'NS_GRAD R' /data/gps/gamit/hymex/net1/$i/$b/onet1a.$b | grep -i $st |
+cut -c19-36,46-65 >> net1_atm/$st.$i.net1.ns
+grep 'EW_GRAD R' /data/gps/gamit/hymex/net1/$i/$b/onet1a.$b | grep -i $st |
+cut -c19-36,46-65 >> net1_atm/$st.$i.net1.ew
+else
+echo /data/gps/gamit/hymex/net1/$i/$b/onet1a.$b missing
+fi
+done
+done
+echo station $st completed
+done < <( cat net1/st_liste_net1.txt )
