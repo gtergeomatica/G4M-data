@@ -7,6 +7,18 @@ The repository use the following structure:
 - P_T: folder with the script to insert Pressure P and Temperature T in the PostgreSQL/PostGIS geoDB
 - SQL file to create the geoDB tables
 
+They use the credenziali.py file which is ignored
+
+′′′
+ip='localhost'   
+db='##############'
+user='########'
+pwd='#########'
+port='5432'
+
+schema='meteognss_p_t' #example
+′′′
+
 # NOTE
 The README.md of single folder are actually in Italian (Translation will be soon available)
 

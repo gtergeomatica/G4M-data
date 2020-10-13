@@ -32,11 +32,11 @@ def main():
     try:
         opts, args = getopt.getopt(sys.argv[1:], "ha:n", ["help", "ayear="])
     except getopt.GetoptError:
-        print 'ztd2postgresql.py -a <year>'
+        print 'noaa2postgresql.py -a <year>'
         sys.exit(2)
     for opt, arg in opts:
         if opt == '-h':
-            print 'ztd2postgresql.py -i <year>'
+            print 'noaa2postgresql.py -i <year>'
             sys.exit()
         elif opt in ("-a", "--ayear"):
             year = arg
@@ -67,7 +67,7 @@ def main():
 
     #leggo il codice delle stazioni presenti sul DB
     # Open a cursor to perform database operations
-    query="SELECT id_station,descr, country FROM noaa.stations_p_t;"
+    query="SELECT id_station,descr, country FROM {}.stations_p_t;".format(schema)
     cur.execute(query)  
     
     while True:
